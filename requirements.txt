@@ -1,0 +1,2 @@
+cloudwatchlogs-s3-stream-descriptor
+pytest>=7.0.0
